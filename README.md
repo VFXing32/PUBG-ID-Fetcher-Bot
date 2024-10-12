@@ -2,6 +2,8 @@
 
 This bot was created to verify PUBG users on Discord, as PUBG does not provide an OAuth method for verification. By fetching the PUBG ID through a PUBG lobby invite, which can only be shared by the user themselves, the bot extracts and displays the PUBG ID along with the user's Discord ID for verification purposes.
 
+<img src="Discord Screenshot.png" alt="Discord Screenshot" width="618" height="301">
+
 ## Features
 - **PUBG User Verification**: Fetches the PUBG ID from a lobby invite, which ensures that only the actual user can share their PUBG information.
 - Detects PUBG lobby invites in Discord messages.
